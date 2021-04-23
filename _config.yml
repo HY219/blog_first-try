@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  컴퓨터 프로그램 개발에 대해 차근차근 배워가고 있는 학생입니다 :)
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://hy219.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hy219.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jhy_0219
 author: HyeYeon Jeong
